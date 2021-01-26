@@ -1,0 +1,183 @@
+body {
+    font-family: Georgia, sans-serif;
+    background: url("image/back.jpg");
+}
+
+.logo {
+    background-position: right;
+    margin-left: 104px;
+    margin-top: 44px;
+}
+
+img.resize {
+    width: 332px;
+    height: 111.8px;
+}
+
+.menu {
+    margin: 44px 53px 84px 104px;
+    white-space: nowrap;
+    font-size: 20px;
+}
+
+.table {
+    position: absolute;
+    width: 500px;
+    height: 600px;
+    background: #FFFFFF;
+    box-shadow: 2px 4px 7px rgba(53, 53, 53, 0.13);
+    border-radius: 15px;
+    margin: 0 1321px 240px 91px;
+}
+
+.sign {
+    font-size: 20px;
+    margin: 44px 128px 0 110px;
+}
+
+.input-name {
+    position: absolute;
+    width: 350px;
+    height: 39px;
+    background: #F2F2F2;
+    border-radius: 17px;
+    font-size: 14px;
+    margin: 52px 74px 0 75px;
+    border: none;
+    outline: none;
+}
+
+
+.input-surname {
+    position: absolute;
+    width: 350px;
+    height: 39px;
+    background: #F2F2F2;
+    border-radius: 17px;
+    font-size: 14px;
+    margin: 104px 74px 0 75px;
+    border: none;
+    outline: none;
+}
+
+.input-phone {
+    position: absolute;
+    width: 350px;
+    height: 39px;
+    background: #F2F2F2;
+    border-radius: 17px;
+    font-size: 14px;
+    margin: 156px 74px 0 75px;
+    border: none;
+    outline: none;
+}
+
+.input-email {
+    position: absolute;
+    width: 350px;
+    height: 39px;
+    background: #F2F2F2;
+    border-radius: 17px;
+    font-size: 14px;
+    margin: 208px 74px 0 75px;
+    border: none;
+    outline: none;
+}
+
+.input-password {
+    position: absolute;
+    width: 350px;
+    height: 39px;
+    background: #F2F2F2;
+    border-radius: 17px;
+    font-size: 14px;
+    margin: 260px 74px 0 75px;
+    border: none;
+    outline: none;
+}
+
+.input-repeatpassword {
+    position: absolute;
+    width: 350px;
+    height: 39px;
+    background: #F2F2F2;
+    border-radius: 17px;
+    font-size: 14px;
+    margin: 312px 74px 0 75px;
+    border: none;
+    outline: none;
+}
+
+.icon {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    background: #505050;
+}
+
+.checkbox {
+    margin: 361px 146px 0 75px;
+    font-size: 16px;
+    white-space: nowrap;
+}
+
+.button {
+    position: absolute;
+    width: 192px;
+    height: 40px;
+    background: rgba(77, 217, 108, 0.82);
+    backdrop-filter: blur(6px);
+    border-radius: 17px;
+    font-size: 20px;
+    margin: 44px 232px 0 75px;
+    border-width: 1px;
+    border-color: rgba(77, 217, 108, 0.82);
+    outline: none;
+}
+
+input{
+    text-indent: 20px;
+}
+
+
+.input-name-icon {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    margin: 62px 394px 0 89px;
+}
+
+.input-surname-icon {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    margin: 114px 394px 0 89px;
+}
+
+.input-phone-icon {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    margin: 167px 394px 0 89px;
+}
+
+.input-email-icon {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    margin: 219px 394px 0 89px;
+}
+
+.input-password-icon {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    margin: 270px 394px 0 89px;
+}
+
+.input-repeatpassword-icon {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    margin: 321px 394px 0 89px;
+}

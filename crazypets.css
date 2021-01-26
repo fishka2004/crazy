@@ -1,0 +1,89 @@
+body {
+    font-family: Georgia, sans-serif;
+    background: url("image/back.jpg");
+}
+
+.logo {
+    background-position: right;
+    margin-left: 104px;
+    margin-top: 44px;
+}
+
+img.resize {
+    width: 332px;
+    height: 111.8px;
+}
+
+.menu {
+    margin: 44px 53px 84px 104px;
+    white-space: nowrap;
+    font-size: 20px;
+}
+
+.table {
+    position: absolute;
+    width: 500px;
+    height: 600px;
+    background: #FFFFFF;
+    box-shadow: 2px 4px 7px rgba(53, 53, 53, 0.13);
+    border-radius: 15px;
+    margin: 0 1321px 240px 91px;
+}
+
+.sign {
+    font-size: 20px;
+    margin: 44px 128px 0 110px;
+}
+
+.input-login {
+    position: absolute;
+    width: 400px;
+    height: 55px;
+    background: rgba(205, 205, 205, 0.3);
+    backdrop-filter: blur(6px);
+    border-radius: 17px;
+    font-size: 16px;
+    font-style: italic;
+    margin: 91px 58px 0 47px;
+    border: none;
+    outline: none;
+}
+
+.input-password {
+    position: absolute;
+    width: 400px;
+    height: 55px;
+    background: rgba(205, 205, 205, 0.3);
+    backdrop-filter: blur(6px);
+    border-radius: 17px;
+    margin: 197px 58px 0 47px;
+    font-size: 16px;
+    font-style: italic;
+    border: none;
+    outline: none;
+}
+
+.checkbox {
+    margin: 274px 52px 0 47px;
+    font-size: 16px;
+    white-space: nowrap;
+}
+
+.button {
+    position: absolute;
+    width: 400px;
+    height: 55px;
+    background: rgba(77, 217, 108, 0.82);
+    backdrop-filter: blur(6px);
+    border-radius: 17px;
+    font-size: 20px;
+    margin: 69px 58px 0 42px;
+    border-width: 1px;
+    border-color: rgba(77, 217, 108, 0.82);
+    outline: none;
+}
+
+input{
+    text-indent: 20px;
+}
+
